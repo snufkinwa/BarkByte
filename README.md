@@ -1,5 +1,5 @@
 <p align="center">
-<img src= "https://i.ibb.co/1LdFnDR/JH-3.png" width = 500px>
+<img src= "https://i.imgur.com/i1oGW0s.png" width = 500px>
 </p>
 
 # BarkByte: Dog Image Classifier
